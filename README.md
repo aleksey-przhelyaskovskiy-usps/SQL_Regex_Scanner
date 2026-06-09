@@ -1,3 +1,7 @@
+# Replaced by https://github.com/USPS/dsp-migrations-1147-db
+
+---
+
 # SQL Regex Scanner (Cross-Platform)
 
 This repository provides a portable solution to scan `.sql` files in a `.zip` archive
